@@ -1,0 +1,2 @@
+[Script]
+AutoDNS = type=event,event-name=network-changed,script-path=https://raw.githubusercontent.com/Felix-Koh/surge/main/autoDNS.js
