@@ -1,5 +1,5 @@
-#如上第 1、2 行的 SSID1、SSID2 部分請自行新增或者刪減、修改，如有增加或減少請再修改第 4 行的部份即可
-#第 3 行的 NextDNS 名稱需要跟DoH模組的第一行名稱對應
+//如上第 1、2 行的 SSID1、SSID2 部分請自行新增或者刪減、修改，如有增加或減少請再修改第 4 行的部份即可
+//第 3 行的 NextDNS 名稱需要跟DoH模組的第一行名稱對應
 const ssid1 = "Gmz-5g";
 const ssid2 = "SSID2";
 const name = "DH-DNS";
