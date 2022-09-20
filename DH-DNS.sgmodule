@@ -2,4 +2,4 @@
 #!desc=啟用 DoH 加密解析
 
 [General]
-doh-server = https://162.14.132.76/dns-query,https://162.14.132.109/dns-query
+doh-server = https://a.passcloud.xyz/dns-query,https://162.14.132.109/dns-query
