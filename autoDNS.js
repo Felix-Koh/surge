@@ -2,7 +2,7 @@
 //第 3 行的 NextDNS 名稱需要跟DoH模組的第一行名稱對應
 const ssid1 = "Gmz-5g";
 const ssid2 = "SSID2";
-const name = "DH-DNS";
+const name = "Private-DNS";
 let home = ($network.wifi.ssid === ssid1) || ($network.wifi.ssid === ssid2);
 
 const getModuleStatus = new Promise((resolve) => {
