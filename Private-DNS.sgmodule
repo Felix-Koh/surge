@@ -1,5 +1,4 @@
-#!name=DH-DNS
-#!desc=啟用 DoH 加密解析
-
+#!name=Private-DNS
+#!desc=无污染加密DNS
 [General]
 doh-server = quic://162.14.132.109:784,h3://dns.tex0n.net:8888/dns-query
