@@ -1,4 +1,4 @@
 #!name=Private-DNS
 #!desc=无污染加密DNS
 [General]
-doh-server = https://162.14.132.109/dns-query,https://dns.tex0n.net:784/dns-query,h3://dns.tex0n.net:8888/dns-query
+doh-server = h3://162.14.132.109/dns-query,h3://dns.tex0n.net:8888/dns-query
