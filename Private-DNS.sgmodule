@@ -1,4 +1,0 @@
-#!name=Private-DNS
-#!desc=dns
-[General]
-doh-server = h3://162.14.132.109/dns-query,h3://dns.tex0n.net:784/dns-query
